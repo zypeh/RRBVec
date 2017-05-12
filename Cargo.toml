@@ -1,0 +1,6 @@
+[package]
+name = "RRBVec"
+version = "0.1.0"
+authors = ["zypeh <zypeh.geek@gmail.com>"]
+
+[dependencies]
